@@ -52,11 +52,11 @@ pip install pandas matplotlib
 
 <!--
 ## 🖼️ Sample Charts
-Add screenshots of your generated plots here, e.g.:
-![Volume Trend](images/volume_trend.png)
-![Return Distribution](images/return_distribution.png)
-![Price Range Trend](images/price_range_trend.png)
+
 -->
+<img width="850" height="470" alt="download" src="https://github.com/user-attachments/assets/8f7451b5-d771-4903-b5fd-dda1fea58701" />
+<img width="1001" height="491" alt="download" src="https://github.com/user-attachments/assets/58e78eb3-9ef4-4b37-af32-d0e1b86d2554" />
+<img width="704" height="470" alt="download" src="https://github.com/user-attachments/assets/0c8a386f-dd6d-42ba-aac0-74c80e21d432" />
 
 ## 📄 License
 
